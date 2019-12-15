@@ -1,5 +1,5 @@
 # HoloHub Client
 
-## Getting Started
+## 🚀 Getting Started
 
-Download the latest release from the release section.
+Download the latest release from the release section 🌑 https://github.com/digitalnauts/HoloHub-Client/releases
